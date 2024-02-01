@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1706173087,
-      "filename": "lineage-21.0-20240125-UNOFFICIAL-porsche.zip",
+      "datetime": 1706796000,
+      "filename": "lineage-21.0-20240201-UNOFFICIAL-porsche.zip",
       "id": "eafilhrswsjhqiqbzhbv",
       "romtype": "UNOFFICIAL",
-      "size": 2087116925,
-      "url": "soon",
+      "size": 2684354560,
+      "url": "https://master.dl.sourceforge.net/project/los-porsche/lineage-21.0-20240201-UNOFFICIAL-porsche.zip?viasf=1",
       "version": "21.0"
     }
   ]
