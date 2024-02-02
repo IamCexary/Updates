@@ -1,4 +1,3 @@
 - Getting ready for Release
 - User build
-- Switched GMS repo to Pixel OS one
 - Reduced touch boost to improve battery life
