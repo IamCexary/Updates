@@ -1,3 +1,1 @@
-- Getting ready for Release
-- User build
-- Reduced touch boost to improve battery life
+- Spoof Google Photos app as Pixel XL for Unlimited Google Photos Backup at Original Quality 
